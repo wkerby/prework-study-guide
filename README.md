@@ -36,7 +36,9 @@ N/A
 ## Features
 
 A simple external CSS style sheet
-A script.js
+
+A script.js file
+
 A simple index.html file
 
 ## How to Contribute
